@@ -86,7 +86,7 @@ I just want to say that if you have a open mind, you should at least give it a t
 
 Much of my love for Perl was because it is highly proximate with Linux, and because of that it became a huge part of myself on Linux.
 
-Linux made myself a better person, the open source software movement made me think more like a part of something bigger, than just a sole guy with just a dream, more like a guy who can achieve his dreams, and dream even further.
+Linux made myself a better person, the open source software movement made me think more than just a lonely guy with a dream, to a guy that knows he is part of something even bigger than the sum of its parts, a guy that not only can achieve his dreams, but also dream even further.
 
 Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, netstat, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
 > Just to be clear i'm a Linux user so i like Bash Script, but i do not consider it a Programming Language like the other ones to be in that list.
