@@ -125,7 +125,7 @@ I do say to use Linux because Linux made myself a better person, the open source
 
 Be a game developer and Linux user is a dream and a obstacle, and as i said, since it is a dream, i can achieve that, i just have to fix the obstacle in my way right now.
 #### My Schedule
-  : Sunday :  | : Monday : | : Tuesday : | : Wednesday : | : Thursday : |     : Friday :     | : Saturday :
+  :Sunday:  | : Monday : | : Tuesday : | : Wednesday : | : Thursday : |     : Friday :     | : Saturday :
 --------------|------------|-------------|---------------|--------------|--------------------|--------------
  Godot Engine | : Java 8 : |  : Java 8 : |: Spring Boot :|   : UML :    | : Linear Algebra : |    : SQL :
 
