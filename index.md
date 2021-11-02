@@ -1,6 +1,6 @@
 
 
-## Welcome to TheRockSays Main Repository
+## Welcome to TheRockSays Introduction
 
 Hello, i'm TheRockSays just a guy trying to be a developer, now just a web developer but in the future a game developer, you will see i guarantee.
 
