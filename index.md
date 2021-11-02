@@ -6,7 +6,7 @@ Hello, i'm TheRockSays just a guy trying to be a developer, now just a web devel
 
 ![rammus-lol](/main-image-rammus.jpg)
 
-Here I just want to talk to you, let me introduce myself.
+Here I just want to talk to you, let me introduce myself.  
 
 I'm a 21 years old dude from Brazil, this account (TheRockSays) is like a alter ego, where i can do my things without people knowing how i'm, well at least most of the people don't know how i am, and to be clear i am just a non professional idiot that want to be good at something that i really like, and that is... computers.
 
@@ -125,9 +125,9 @@ I do say to use Linux because Linux made myself a better person, the open source
 
 Be a game developer and Linux user is a dream and a obstacle, and as i said, since it is a dream, i can achieve that, i just have to fix the obstacle in my way right now.
 #### My Schedule
-    Sunday     | Monday  | Tuesday  |  Wednesday   | Thursday  | Friday         | Saturday 
----------------|---------|----------|--------------|-----------|----------------|-----------
- Godot Engine  | Java 8  | Java 8   | Spring Boot  | UML       | Linear Algebra | SQL 
+    Sunday       | Monday  | Tuesday  |  Wednesday   | Thursday  | Friday         | Saturday 
+    ------       | ------  | -------  | -----------  | --------  | -------------- | -------- 
+    Godot Engine | Java 8  | Java 8   | Spring Boot  | UML       | Linear Algebra | SQL 
 
 
 #### Support or Contact
