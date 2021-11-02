@@ -4,7 +4,7 @@ Hello, i'm TheRockSays just a guy trying to be a developer, now just a web devel
 
 ![rammus-lol](/main-image-rammus.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Right here i just want to talk to you, let me introduce myself, i'm a 21 years old guy from Brazil, this is my alter ego, a non professional idiot that just want to be good at something i really like, and that is... Computers.
 
 ### Languages that i personally like
 
@@ -30,25 +30,47 @@ printf("Hello C!");
 std::cout << "Hello C++!";
 // the above with some things that doesn't make sense (initially) above it.
 ```
+```perl
+print("Hello Perl!");
+# a dead (but not so dead) language that i like
+```
 Note that i didn't wrote the main function on those languages that need it, just pretend that is there because if i wrote it out, it will take space that i don't want to use...
 
-- Bulleted
-- List
+Maybe you want to know more about which language i like the most, than...
+### Tierlist of languages
 
-1. Numbered
-2. List
+1. Ruby ♥️
+2. C 🧑‍🔧
+3. Java :smiling_imp:
+4. C++ 💫
+5. Python 🤟
 
+
+Of course i know that there are a lot of other languages, like:
+- Javascript
+- Scala
+- Kotlin
+- Clojure
+- Haskell
+- TypeScript
+- C#
+- PHP
+- Objective C
+- Crystal 
+- I will not name every other language common...
+
+I personally like functional languages, or that at least have some support of it.
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Operating System
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Now i will talk about something that has a a huge influence on myself, operating systems.
+I lived almost half of my life using Windown until i freed myself from the hands of Microsoft and embrace the journey to be a Linux user.
+I say it like that because i always wanted to do some things with my computer as related things, and Windows prevented me of doing too much things.
+Things that it was much more complex on Windows, Linux does it like it's effortless, it comes with its price but im willed to pay the price.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheRockSaysOP/therocksays.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
