@@ -2,6 +2,7 @@
 title: "Habits"
 output:
   html_document:
+    theme: dark;
     css: styles.css
 ---
 
