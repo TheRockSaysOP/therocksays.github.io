@@ -64,6 +64,7 @@ Of course i know that there are a lot of other languages, like:
 > I will not name every other language come on...
 
 I personally like functional languages, or that at least have some support of it.
+
 Because right now i'm focused in web development, most of my programming right now is Java + Spring Boot, JUnit + Mockito, and some SQL with PostgreSQL.
 
 ### Operating Systems
