@@ -61,7 +61,7 @@ Of course i know that there are a lot of other languages, like:
 - Objective C
 - Crystal 
 
-> I will not name every other language common...
+> I will not name every other language come on...
 
 I personally like functional languages, or that at least have some support of it.
 Because right now i'm focused in web development, most of my programming right now is Java + Spring Boot, JUnit + Mockito, and some SQL with PostgreSQL.
@@ -79,7 +79,7 @@ I will not say some common things like, you should start using Linux, Linux is b
 I just want to say that if you have a open mind, you should at least try it, and if you like it, it will change you whole life, the way you think, the perspective you have on anything, and many more.
 
 Much of my love for Perl was because it is highly proximate with Linux, and because of that it became a huge part of myself on Linux.
-Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
+Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, netstat, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
 > Just to be clear i'm a Linux user so i like Bash Script, but i do not consider it a Programming Language like the other ones to be in that list.
 ```console
 echo "Hello Bash Script!"
