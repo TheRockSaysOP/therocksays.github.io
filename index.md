@@ -17,49 +17,49 @@ They can be much different from each other but i like them.
 
 
 #### Java
-> ```java
-  System.out.println("Hello Java!");
-  // a little too verbose language.
-  ```
+```java
+System.out.println("Hello Java!");
+// a little too verbose language.
+```
 > Java is the main language that i learn in college, most of my work is done in Java and is the language that i'm most confortable with.
-Before college i had some experience with this language because my favorite game at the time was written in it (Minecraft, and of course Java Edition, not that other bullshit).
+> Before college i had some experience with this language because my favorite game at the time was written in it (Minecraft, and of course Java Edition, not that other bullshit).
 
 #### Ruby
 ```ruby
 puts "Hello Ruby!"
 # a language with many problems that i love so much.
 ```
-Ruby is my favorite language, that is a bit of a spoiler, i was not introduced to Ruby before my first real contact with the language.
-Ruby has so many features and is built in a way that is actually pretty intuite, that fascinates me.
+> Ruby is my favorite language, that is a bit of a spoiler, i was not introduced to Ruby before my first real contact with the language.
+> Ruby has so many features and is built in a way that is actually pretty intuite, that fascinates me.
 
 #### Python
 ```python
 print("Hello Python!")
 # a language that tries to do everything and most of them to right.
 ```
-Python was my first language in college, i can say that is a good language, but i think it tries to do many things at once and i think someday that will become a massive tragedy.
+> Python was my first language in college, i can say that is a good language, but i think it tries to do many things at once and i think someday that will become a massive tragedy.
 
 #### C
 ```c
 printf("Hello C!");
 // a low level (considering the others above) that i love to control.
 ```
-C was the first language that i tried that was "low-level", most of my curiosity was because i want to be a game developer, and most of the games are built in C or at least a family member of the C language like C++, C#, Objective C.
-That would come handy, because of my grade of Data Structures and Algorithms, i developed it both with C and Java.
+> C was the first language that i tried that was "low-level", most of my curiosity was because i want to be a game developer, and most of the games are built in C or at least a family member of the C language like C++, C#, Objective C.
+> That would come handy, because of my grade of Data Structures and Algorithms, i developed it both with C and Java.
 
 #### C++
 ```cpp
 std::cout << "Hello C++!";
 // the above with some things that doesn't make sense (initially) above it.
 ```
-As i said, i want to be a game developer so i tried C, C++, C#, Rust, Lua (this one is from UFRJ here in Brazil), and C++ was one of them i liked the way it does thinks even though at first didn't make sense.
+> As i said, i want to be a game developer so i tried C, C++, C#, Rust, Lua (this one is from UFRJ here in Brazil), and C++ was one of them i liked the way it does thinks even though at first didn't make sense.
 
 #### Perl
 ```perl
 print("Hello Perl!");
 # a dead (but not so dead) language that i like
 ```
-Much of my love for this language is because is embedded everywhere, and mainly on Linux.
+> Much of my love for this language is because is embedded everywhere, and mainly on Linux.
 
 
 Note that i didn't wrote the main function on those languages that need it, just pretend that is there because if i wrote it out, it will take space that i don't want to use...
