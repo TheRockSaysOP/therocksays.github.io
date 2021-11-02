@@ -1,10 +1,4 @@
----
-title: "Habits"
-output:
-  html_document:
-    theme: dark;
-    css: /styles.css
----
+
 
 ## Welcome to TheRockSays Main Repository
 
