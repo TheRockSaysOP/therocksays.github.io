@@ -10,7 +10,7 @@ output:
 
 Hello, i'm TheRockSays just a guy trying to be a developer, now just a web developer but in the future a game developer, you will see i guarantee.
 
-![rammus-lol](/main-image-rammus.jpg){rammus-img}
+![rammus-lol](/main-image-rammus.jpg){.rammus-img}
 
 Right here i just want to talk to you, let me introduce myself, i'm a 21 years old guy from Brazil, this is my alter ego, a non professional idiot that just want to be good at something i really like, and that is... Computers.
 
