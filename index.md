@@ -6,7 +6,8 @@ Hello, i'm TheRockSays just a guy trying to be a developer, now just a web devel
 
 ![rammus-lol](/main-image-rammus.jpg)
 
-Right here i just want to talk to you, let me introduce myself, i'm a 21 years old guy from Brazil, this is my alter ego, a non professional idiot that just want to be good at something i really like, and that is... Computers.
+Here I just want to talk to you, let me introduce Myself, I'm a 21 years old dude from Brazil, this account (TheRockSays) is like a alter ego of mine, a non professional idiot that just want to be good at something i really like, and that is... computers.
+
 
 ### Languages that i personally like
 
@@ -77,6 +78,13 @@ Things that it was much more complex on Windows, Linux does it like it's effortl
 I will not say some common things like, you should start using Linux, Linux is better than Windows, or anything like that, even though i actually want to say it.
 I just want to say that if you have a open mind, you should at least try it, and if you like it, it will change you whole life, the way you think, the perspective you have on anything, and many more.
 
+Much of my love for Perl was because it is highly proximate with Linux, and because of that it became a huge part of myself on Linux.
+Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
+> Just to be clear i'm a Linux user so i like Bash Script, but i do not consider it a Programming Language like the other ones to be in that list.
+```console
+echo "Hello Bash Script!"
+```
+
 #### Support or Contact
 
-Email: [therocksaysop@protonmail.com](mailto:therocksaysop@protonmail.com)
+Just Email Me: [therocksaysop@protonmail.com](mailto:therocksaysop@protonmail.com)
