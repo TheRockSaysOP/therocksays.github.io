@@ -1,9 +1,4 @@
 theme: jekyll-theme-minimal
 title: TheRockSays
 description: Just a presentation repository
----
-output:
-  html_document:
-    theme: dark;
-    css: /styles.css
----
+
