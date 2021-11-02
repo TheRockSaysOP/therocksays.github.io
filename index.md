@@ -57,7 +57,8 @@ Of course i know that there are a lot of other languages, like:
 - PHP
 - Objective C
 - Crystal 
-- I will not name every other language common...
+
+* I will not name every other language common...
 
 I personally like functional languages, or that at least have some support of it.
 **Bold** and _Italic_ and `Code` text
