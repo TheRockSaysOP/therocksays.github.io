@@ -76,10 +76,18 @@ Things that it was much more complex on Windows, Linux does it like it's effortl
 
 ![The Penguin](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
-I will not say some common things like, you should start using Linux, Linux is better than Windows, or anything like that, even though i actually want to say it.
-I just want to say that if you have a open mind, you should at least try it, and if you like it, it will change you whole life, the way you think, the perspective you have on anything, and many more.
+I will not say some common things like: 
+
+"You should start using Linux"_ or _"Linux is better than Windows"_;
+
+Or anything like that, even though i actually should to say it, and meant to say it.
+
+I just want to say that if you have a open mind, you should at least give it a try, and if you try and like it, it will change you whole life, i mean, the way you think, the perspective you have on anything, and many more.
 
 Much of my love for Perl was because it is highly proximate with Linux, and because of that it became a huge part of myself on Linux.
+
+Linux made myself a better person, the open source software movement made me think more like a part of something bigger, than just a sole guy with just a dream, more like a guy who can achieve his dreams, and dream even further.
+
 Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, netstat, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
 > Just to be clear i'm a Linux user so i like Bash Script, but i do not consider it a Programming Language like the other ones to be in that list.
 
