@@ -124,6 +124,11 @@ echo "Hello Bash Script!"
 I do say to use Linux because Linux made myself a better person, the open source software movement made me think more than just a lonely guy with a dream, to a guy that knows he is part of something even bigger than the sum of its parts, a guy that not only can achieve his dreams, but also dream even further.
 
 Be a game developer and Linux user is a dream and a obstacle, and as i said, since it is a dream, i can achieve that, i just have to fix the obstacle in my way right now.
+#### My Schedule
+  : Sunday :  | : Monday : | : Tuesday : | : Wednesday : | : Thursday : |     : Friday :     | : Saturday :
+--------------|------------|-------------|---------------|--------------|--------------------|--------------
+ Godot Engine | : Java 8 : |  : Java 8 : |: Spring Boot :|   : UML :    | : Linear Algebra : |    : SQL :
+
 
 #### Support or Contact
 
