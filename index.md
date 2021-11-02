@@ -81,6 +81,7 @@ I just want to say that if you have a open mind, you should at least try it, and
 Much of my love for Perl was because it is highly proximate with Linux, and because of that it became a huge part of myself on Linux.
 Things like, awk, vim, find, grep/regex, pipes, redirection, telnet, netstat, ipconfig, dd, still blow my mind, even though i'm already using more complex things.
 > Just to be clear i'm a Linux user so i like Bash Script, but i do not consider it a Programming Language like the other ones to be in that list.
+
 ```console
 echo "Hello Bash Script!"
 ```
