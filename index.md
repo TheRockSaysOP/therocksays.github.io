@@ -1,21 +1,36 @@
 ## Welcome to TheRockSays Main Repository
 
-You can use the [editor on GitHub](https://github.com/TheRockSaysOP/therocksays.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, i'm TheRockSays just a guy trying to be a developer, now just a web developer but in the future a game developer, you will see i guarantee.
 
 ![rammus-lol](/main-image-rammus.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Languages that i personally like
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+They can be much different from each other but i like them.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+```java
+System.out.println("Hello Java!");
+// a little too verbose language.
+```
+```ruby
+puts "Hello Ruby!"
+# a language with many problems that i love so much.
+```
+```python
+print("Hello Python!")
+# a language that tries to do everything and most of them to right.
+```
+```c
+printf("Hello C!");
+// a low level (considering the others above) that i love to control.
+```
+```cpp
+std::cout << "Hello C++!";
+// the above with some things that doesn't make sense (initially) above it.
+```
+Note that i didn't wrote the main function on those languages that need it, just pretend that is there because if i wrote it out, it will take space that i don't want to use...
 
 - Bulleted
 - List
