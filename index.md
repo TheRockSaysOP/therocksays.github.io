@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/TheRockSaysOP/therocksays.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-!(My profile image (Rammus LoL))[/main-image-rammus.jpg]
+![My profile image (Rammus LoL)](/main-image-rammus.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
