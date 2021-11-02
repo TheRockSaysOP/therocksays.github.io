@@ -17,11 +17,11 @@ They can be much different from each other but i like them.
 
 
 #### Java
-```java
-System.out.println("Hello Java!");
-// a little too verbose language.
-```
-Java is the main language that i learn in college, most of my work is done in Java and is the language that i'm most confortable with.
+> ```java
+  System.out.println("Hello Java!");
+  // a little too verbose language.
+  ```
+> Java is the main language that i learn in college, most of my work is done in Java and is the language that i'm most confortable with.
 Before college i had some experience with this language because my favorite game at the time was written in it (Minecraft, and of course Java Edition, not that other bullshit).
 
 #### Ruby
