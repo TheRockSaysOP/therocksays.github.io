@@ -3,14 +3,14 @@ title: "Habits"
 output:
   html_document:
     theme: dark;
-    css: styles.css
+    css: /styles.css
 ---
 
 ## Welcome to TheRockSays Main Repository
 
 Hello, i'm TheRockSays just a guy trying to be a developer, now just a web developer but in the future a game developer, you will see i guarantee.
 
-![rammus-lol](/main-image-rammus.jpg)
+![rammus-lol](/main-image-rammus.jpg){rammus-img}
 
 Right here i just want to talk to you, let me introduce myself, i'm a 21 years old guy from Brazil, this is my alter ego, a non professional idiot that just want to be good at something i really like, and that is... Computers.
 
@@ -69,16 +69,16 @@ Of course i know that there are a lot of other languages, like:
 * I will not name every other language common...
 
 I personally like functional languages, or that at least have some support of it.
-**Bold** and _Italic_ and `Code` text
+Because right now i'm focused in web development, most of my programming right now is Java + Spring Boot, JUnit + Mockito, and some SQL with PostgreSQL.
 
-### Operating System
+### Operating Systems
 
 Now i will talk about something that has a a huge influence on myself, operating systems.
 I lived almost half of my life using Windown until i freed myself from the hands of Microsoft and embrace the journey to be a Linux user.
 I say it like that because i always wanted to do some things with my computer as related things, and Windows prevented me of doing too much things.
 Things that it was much more complex on Windows, Linux does it like it's effortless, it comes with its price but im willed to pay the price.
 
-
+I will not say 
 
 #### Support or Contact
 
