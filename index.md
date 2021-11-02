@@ -72,6 +72,8 @@ I lived almost half of my life using Windown until i freed myself from the hands
 I say it like that because i always wanted to do some things with my computer as related things, and Windows prevented me of doing too much things.
 Things that it was much more complex on Windows, Linux does it like it's effortless, it comes with its price but im willed to pay the price.
 
+![The Penguin](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+
 I will not say some common things like, you should start using Linux, Linux is better than Windows, or anything like that, even though i actually want to say it.
 I just want to say that if you have a open mind, you should at least try it, and if you like it, it will change you whole life, the way you think, the perspective you have on anything, and many more.
 
